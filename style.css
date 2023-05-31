@@ -1,0 +1,12 @@
+.navbar {
+    padding-top: 10px ;
+    padding-bottom: 10px;
+    background: aqua;
+}
+
+button {
+    border-color: black !important;
+}
+form{
+    gap: 10px;
+}
